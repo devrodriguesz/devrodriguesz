@@ -1,7 +1,7 @@
 # Hi , I am Emerson
-Student Fullstack and Front-end Developer, Coffee lover, Javascript
+Student Fullstack Developer, Coffee lover, Astronomy lover.
 
-I'm currently not working in the area
+I'm currently trainee in the area.
 
 I'm learning at the moment ReactNative, React, Javascript
 

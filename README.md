@@ -1,5 +1,5 @@
 # Hi , I am Emerson
-Student Fullstack Developer, Coffee lover, Astronomy lover.
+Student Fullstack Developer, Coffee and Astronomy lover.
 
 I'm currently trainee in the area.
 

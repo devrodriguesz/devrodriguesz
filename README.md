@@ -7,7 +7,7 @@ I'm currently programming assistent.
 ## About Me 💜
 Hello, my name is Emerson Rodrigues ! I am currently Student Fullstack Web Developer.
 
-🦄 Languages and Technologies I am familiar with: • React • React Native • Javascript • Styled Components • CSS • Firebase • HTML • Git • Github .
+🦄 Languages and Technologies I am familiar with: • React • React Native • HTML • CSS • Javascript • Styled Components • Node • Postgres • MongoDB • Firebase • Figma • Git • Github .
 
 💌 To contact me, I have made available the following network and contact: ⤵️
 

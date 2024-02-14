@@ -1,11 +1,11 @@
 # Hi , I am Emerson
 Student Fullstack Developer, Coffee and Astronomy lover.
 
-I'm currently programming assistent.
+I am currently a frontend developer.
 
 
 ## About Me 💜
-Hello, my name is Emerson Rodrigues ! I am currently Student Fullstack Web Developer.
+Hello, my name is Emerson Rodrigues !
 
 🦄 Languages and Technologies I am familiar with: • React • React Native • HTML • CSS • Javascript • Styled Components • Node • Postgres • MongoDB • Firebase • Figma • Git • Github .
 
